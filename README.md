@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
-      Linkedin : Wagner Kenji Franco Kamoei
+      Linkedin : Wagner Kenji Franco Kamoei\n
       Gmail : wagnerkamoei@gmail.com
 
 <!---
