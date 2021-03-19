@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
-      Linkedin : Wagner Kenji Franco Kamoei\n
-      Gmail : wagnerkamoei@gmail.com
+- Linkedin : Wagner Kenji Franco Kamoei
+- Gmail : wagnerkamoei@gmail.com
 
 <!---
 UmCaraDaNet/UmCaraDaNet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
